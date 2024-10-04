@@ -1,0 +1,14 @@
+{
+  "name": "first-dockerized-project",
+  "version": "1.0.0",
+  "description": "Create a dockerized express server on port 3000",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "abeegit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
